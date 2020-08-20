@@ -1,0 +1,29 @@
+section {
+
+    margin-left: 15%;
+    margin-right: 15%;
+
+}
+
+ 
+  
+#mypost li{  
+    word-wrap:break-word;
+    font: 1em sans-serif;
+    padding: 15px;
+    padding-right: 5px;
+    margin-bottom: 5%;
+    color: white;
+    width: 60%;
+    list-style: none;
+    background-color: blue;
+    border-radius: 5px;
+    text-justify: distribute;
+}
+
+   
+li:nth-child(even){
+    
+
+    margin-left: 30%;
+}
